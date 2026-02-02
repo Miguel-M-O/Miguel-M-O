@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### Cytometry in R
+- Location: Spain
+- My Favorite Fluorophore/Metal-Isotope: DAPI
+- Previous Coding Experience: Some R and Python
+- What I Hope to Get From This Course: Proficiency in cytometry data analysis
 <!--
 **Miguel-M-O/Miguel-M-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
